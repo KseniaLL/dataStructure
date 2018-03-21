@@ -1,0 +1,6 @@
+p b paper 1000 1.0 Staples
+m 234 instructions 5 2.24 123 -1
+m 111 nails 7900 0.01 123 234 -1
+p 456 towel 53 2.67 HomeSense
+p 222 coffee 67 0.25 Loblaws
+p 666 ladder 6 99.99 HomeDepot
